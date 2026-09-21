@@ -1,7 +1,9 @@
-## Hi
+## Hello
 I'm a computer engineering student based in the US. 
 My interests primarily include computer vision, embedded systems, FPGA, and medical devices.
 I'm currently working on EO/IR/LiDAR sensor fusion.
+The languages I use most often are C++ and Python.
+Feel free to reach out.
 
 <!--
 **DylanM5/DylanM5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
