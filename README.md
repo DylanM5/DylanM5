@@ -1,7 +1,7 @@
 ## Dylan M
-I'm a computer engineering student based in the US. 
+I'm a computer engineering student based in the US.
 My interests primarily include computer vision, embedded systems, FPGA, and medical devices.
-I'm currently working on EO/IR/LiDAR sensor fusion and a robotic manipulator.
+I'm currently learning controls.
 The languages I use most often are C++ and Python.
 Feel free to reach out.
 
